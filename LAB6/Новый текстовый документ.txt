@@ -1,0 +1,8 @@
+<div>
+    
+        <asp:Label ID="label1" runat="server" Text="Список" 
+            BackColor="#ffffff" BorderColor="#000000" BorderStyle="Double" 
+            BorderWidth="7px" Font-Bold="True" Font-Italic="True" Font-Overline="True" 
+            Font-Size="X-Large" Font-Strikeout="False" ForeColor="Black"></asp:Label>
+    
+    </div>
