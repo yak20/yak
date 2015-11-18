@@ -1,0 +1,33 @@
+G:\WebApplication1\WebApplication1\bin\WebApplication1.dll
+G:\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+G:\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+G:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\lab5 andreeva 8k00\WebApplication1\bin\WebApplication1.dll
+G:\lab5 andreeva 8k00\WebApplication1\bin\WebApplication1.pdb
+G:\lab5 andreeva 8k00\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\lab5 andreeva 8k00\WebApplication1\obj\Debug\WebApplication1.dll
+G:\lab5 andreeva 8k00\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\lab5 andreeva 8k00\WebApplication1\bin\WebApplication1.dll
+E:\lab5 andreeva 8k00\WebApplication1\bin\WebApplication1.pdb
+E:\lab5 andreeva 8k00\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\lab5 andreeva 8k00\WebApplication1\obj\Debug\WebApplication1.dll
+E:\lab5 andreeva 8k00\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\lab5 andreeva 8k00\WebApplication1\bin\WebApplication1.dll
+D:\lab5 andreeva 8k00\WebApplication1\bin\WebApplication1.pdb
+D:\lab5 andreeva 8k00\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\lab5 andreeva 8k00\WebApplication1\obj\Debug\WebApplication1.dll
+D:\lab5 andreeva 8k00\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\lab7\lab7\WebApplication1\bin\WebApplication1.dll
+G:\lab7\lab7\WebApplication1\bin\WebApplication1.pdb
+G:\lab7\lab7\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\lab7\lab7\WebApplication1\obj\Debug\WebApplication1.dll
+G:\lab7\lab7\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\lab7\lab7\WebApplication1\bin\WebApplication1.dll
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\lab7\lab7\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\lab7\lab7\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\lab7\lab7\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\lab7\lab7\WebApplication1\bin\WebApplication1.dll
+F:\lab7\lab7\WebApplication1\bin\WebApplication1.pdb
+F:\lab7\lab7\WebApplication1\obj\Debug\WebApplication1.dll
+F:\lab7\lab7\WebApplication1\obj\Debug\WebApplication1.pdb
